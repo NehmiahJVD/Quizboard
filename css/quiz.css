@@ -1,0 +1,195 @@
+
+#quizBoxStart
+{   
+  border-radius: 8px;
+  width: 88% !important;
+  box-shadow: 0 15px 12px rgba(0,0,0,0.22), 0 19px 38px rgba(0,0,0,0.33);
+  height: 80%;
+  background-color: #4E3585;
+
+}
+
+#scores
+{
+  width: 40%;
+  height: 100px; 
+  margin-left:30%; 
+  margin-bottom:3%; 
+  background-color: transparent;  
+  font-size: 5rem; 
+  font-family: 'Oswald', serif; 
+  border: transparent; 
+  color: white;
+}
+
+#scoresCpp
+{
+  width: 40%;
+  height: 100px; 
+  margin-left:30%; 
+  margin-bottom:3%; 
+  background-color: transparent;  
+  font-size: 5rem; 
+  font-family: 'Oswald', serif; 
+  border: transparent; 
+  color: white;
+}
+#scoresJava
+{
+  width: 40%;
+  height: 100px; 
+  margin-left:30%; 
+  margin-bottom:3%; 
+  background-color: transparent;  
+  font-size: 5rem; 
+  font-family: 'Oswald', serif; 
+  border: transparent; 
+  color: white;
+}
+#scoresCss
+{
+  width: 40%;
+  height: 100px; 
+  margin-left:30%; 
+  margin-bottom:3%; 
+  background-color: transparent;  
+  font-size: 5rem; 
+  font-family: 'Oswald', serif; 
+  border: transparent; 
+  color: white;
+}
+#scoresJs
+{
+  width: 40%;
+  height: 100px; 
+  margin-left:30%; 
+  margin-bottom:3%; 
+  background-color: transparent;  
+  font-size: 5rem; 
+  font-family: 'Oswald', serif; 
+  border: transparent; 
+  color: white;
+}
+
+
+
+
+#langInput
+{
+  font-family: 'Oswald', serif; 
+  border: transparent; 
+  color: white;
+  height: 80px; 
+  background-color: transparent;  
+  font-size: 2.2rem;
+  text-shadow: 0 15px 12px rgba(0,0,0,0.20), 0 19px 38px rgba(0,0,0,0.20);
+}
+
+.inputProps
+{
+  box-shadow: 0 15px 12px rgba(0,0,0,0.22), 0 19px 38px rgba(0,0,0,0.33);
+}
+
+
+
+
+#score1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 7rem;
+  text-align: center;
+  color: gainsboro;
+  margin-top: 5%;
+  text-shadow: 0 15px 12px rgba(0,0,0,0.20), 0 19px 38px rgba(0,0,0,0.20);
+
+}
+
+#titleFont {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.2rem;
+  color: white;
+  text-shadow: 0 15px 12px rgba(0,0,0,0.20), 0 19px 38px rgba(0,0,0,0.20);
+
+
+}
+
+ #question {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1.2rem;
+  color: white;
+
+}
+
+.buttons {
+  margin-top: 30px;
+}
+
+.btnProp {
+
+  width: 250px;
+  font-family: 'Oswald', serif;
+  font-size: 1rem;
+  color: ghostwhite;
+  box-shadow: 0 15px 12px rgba(0,0,0,0.22), 0 19px 38px rgba(0,0,0,0.33);
+  border-radius: 50px;
+  background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+  border: 1px solid transparent;
+  margin: 10px 0px 0px 0px;
+  padding: 8px 10px;
+}
+
+.btnProp:hover {
+  cursor: pointer;
+  background: gainsboro;
+  color: #333333;
+}
+
+#btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus {
+  outline: 0;
+}
+
+.progress {
+  font-family: 'Oswald', serif;
+  font-size: 1.1rem;
+  color: white;
+}
+
+
+#quizBlock1
+{
+  background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
+}
+#quizBlock2
+{
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+#quizBlock3
+{
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);}
+#quizBlock4
+{
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+#quizBlock5
+{
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);}
+#quizBlock6
+{
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+
+
+#quizBlock1, #quizBlock2, #quizBlock3, #quizBlock4, #quizBlock5, #quizBlock6
+{
+  text-decoration: none; 
+  height: 100px; 
+  border-radius: 8px; 
+  box-shadow: 0 15px 12px rgba(0,0,0,0.15), 0 19px 38px rgba(0,0,0,0.15);
+
+}
+
+
+#quizBlock1:hover, #quizBlock2:hover, #quizBlock3:hover, #quizBlock4:hover, #quizBlock5:hover, #quizBlock6:hover
+{
+  background: gray;
+  color: thistle;
+}

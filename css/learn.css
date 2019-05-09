@@ -1,0 +1,101 @@
+
+#langBlock1
+{
+  background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
+}
+#langBlock2
+{
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+#langBlock3
+{
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);}
+#langBlock4
+{
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+#langBlock5
+{
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+#langBlock6
+{
+  background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+}
+#langBlock7
+{
+  background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+}
+#langBlock8
+{
+  background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
+}
+#langBlock9
+{
+  background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
+}
+#langBlock10
+{
+  background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+}
+#langBlock11
+{
+  background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+}
+#langBlock12
+{
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+#langBlock13
+{
+  background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
+}
+#langBlock14
+{
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+#langBlock15
+{
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);}
+#langBlock16
+{
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+
+#langBlock1, #langBlock2, #langBlock3, #langBlock4, #langBlock5, #langBlock6, #langBlock7, #langBlock8,
+#langBlock9, #langBlock10,  #langBlock11, #langBlock12,  #langBlock13, #langBlock14,  #langBlock15, #langBlock16
+{
+  text-decoration: none; 
+  height: 170px; 
+  border-radius: 8px; 
+  box-shadow: 0 15px 12px rgba(0,0,0,0.15), 0 19px 38px rgba(0,0,0,0.15);
+}
+
+
+
+
+
+
+#langBlock1:hover, #langBlock2:hover, #langBlock3:hover, #langBlock4:hover, #langBlock5:hover, #langBlock6:hover, #langBlock7:hover, #langBlock8:hover,
+#langBlock9:hover, #langBlock10:hover,  #langBlock11:hover, #langBlock12:hover,  #langBlock13:hover, #langBlock14:hover,  #langBlock15:hover, #langBlock16:hover
+{
+  background: gray;
+  color: thistle;
+}
+
+.langTxt
+{
+  color: #f5f5f5; 
+  font-size: 36px;  
+  font-family: 'Oswald' sans-serif !important;
+}
+
+
+
+
+
+
+
+
+
+

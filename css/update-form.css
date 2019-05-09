@@ -1,0 +1,72 @@
+
+body
+{
+
+    background-color: #fafafa;
+    background-image: url('../images/pattern2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+  
+
+.card-update 
+{
+    border: 0;
+    border-radius: 1rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+    background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+    box-shadow: 0 15px 12px rgba(0,0,0,0.22), 0 19px 38px rgba(0,0,0,0.33);
+    border: none;
+}
+  
+.card-update .card-title 
+{
+    margin-bottom: 2rem;
+    font-weight: 100;
+    font-size: 1.5rem;
+    font-family: 'Oswald', sans-serif;
+    color: ghostwhite;
+}
+  
+.card-update .card-body
+{
+    padding: 2rem;
+}
+  
+.form-update 
+{
+    width: 100%;
+}
+  
+.form-update .btn 
+{
+    font-size: 80%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 0.5rem;
+    transition: all 0.2s;
+    box-shadow: 0 15px 12px rgba(0,0,0,0.12), 0 19px 38px rgba(0,0,0,0.13);
+    font-family: 'Oswald', sans-serif;
+    width: 60%;
+    margin-left: 20%;
+
+}
+  
+.form-label-group 
+{
+    position: relative;
+    margin-bottom: 1rem;
+}
+  
+.form-label-group input 
+{
+    height: auto;
+    border-radius: 2rem;
+    border-color: transparent;
+    box-shadow: 0 15px 12px rgba(0,0,0,0.12), 0 19px 38px rgba(0,0,0,0.13);
+    font-family: 'Oswald', sans-serif;
+
+}
+  
+  

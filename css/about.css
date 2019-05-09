@@ -1,0 +1,26 @@
+
+#jumbo
+{
+  background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+  box-shadow: 0 15px 12px rgba(0,0,0,0.12), 0 19px 38px rgba(0,0,0,0.23);
+  background-size: 200%;
+  animation: moveGrad2 8s linear infinite;
+}
+
+@keyframes moveGrad2
+{
+  from{background-position: 0 100%;}
+  to{background-position:100% 0;}
+}
+
+#aboutCard
+{
+  width: 80%;
+  box-shadow: 0 15px 12px rgba(0,0,0,0.12), 0 19px 38px rgba(0,0,0,0.23);
+  border-radius: 0px;
+  border: 0;
+  font-family: 'Oswald', serif;
+  color: #333333;
+
+}
+
